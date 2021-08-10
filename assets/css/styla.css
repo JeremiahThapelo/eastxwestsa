@@ -10952,11 +10952,6 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     margin-left: -15rem;
   }
 }*/
-@media screen and (min-width: 576px) {
-        body{
-            background-color: red;
-            }
-            }
 @media (min-width: 576px) {
   #sidebar-wrapper {
     min-height: 0vh;
