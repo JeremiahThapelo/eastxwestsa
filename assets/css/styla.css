@@ -10929,12 +10929,11 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   }
   
   #page-content-wrapper {
-    min-width: 0;
-    width: 100%;
+    min-width: 100vw;
   }
   
   body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
-    margin-left: -15rem;
+    margin-left: 0;
   }
 }
 */
@@ -10952,22 +10951,14 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     margin-left: -15rem;
   }
 }*/
-@media (min-width: 576px) {
+@media (min-width: 768px) {
   #sidebar-wrapper {
-    min-height: 0vh;
-    padding: 0rem 0rem 0rem 0rem;
     margin-left: 0;
-    background-color: green;
-    
-  }
-  
-  #sidebar-wrapper .list-group {
-  width: 0rem;
   }
 
   #page-content-wrapper {
     min-width: 0;
-    width: 0%;
+    width: 100%;
   }
   body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     margin-left: -15rem;
