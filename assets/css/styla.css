@@ -6527,7 +6527,7 @@ textarea.form-control-lg {
 }
 
 .border-end {
-  border-right: 1px solid #dee2e6 !important;
+  border-right: 0px solid #dee2e6 !important;
 }
 
 .border-end-0 {
