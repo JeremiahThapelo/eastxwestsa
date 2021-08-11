@@ -10951,7 +10951,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     margin-left: -15rem;
   }
 }320px and max-width:480px*/
-@media (320px and max-width:480px) {
+@media (min-width:320px and max-width:480px) {
     margin-right: 0;
 }
 @media (min-width: 768px) {
