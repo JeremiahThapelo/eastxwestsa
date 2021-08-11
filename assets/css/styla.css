@@ -39,8 +39,8 @@
 
 @font-face {
     font-family: "BigHonk";
-    src:url('../assets/fonts/bighonk/BigHonk-handwriting.ttf.woff') format('truetype'),
-        url('../assets/fonts/bighonk/BigHonk-handwriting.ttf.eot') format('truetype');
+    src:url('../fonts/bighonk/BigHonk-handwriting.ttf.woff') format('truetype'),
+        url('../fonts/bighonk/BigHonk-handwriting.ttf.eot') format('truetype');
         /*url('assets/fonts/bighonk/BigHonk-handwriting.ttf.svg#BigHonk-handwriting') format('svg'),
         url('assets/fonts/bighonk/BigHonk-handwriting.ttf.eot'),
         url('assets/fonts/bighonk/BigHonk-handwriting.ttf.eot?#iefix') format('embedded-opentype');*/ 
