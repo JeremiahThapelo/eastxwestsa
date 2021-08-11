@@ -10953,7 +10953,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
 }320px and max-width:480px*/
 @media (min-width: 768px) {
   #sidebar-wrapper {
-    display: none;
+    
     margin-left: 0;
     margin-right: 0;
   }
