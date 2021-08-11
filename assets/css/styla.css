@@ -10953,7 +10953,9 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
 }*/
 @media (min-width: 768px) {
   #sidebar-wrapper {
+    display: none;
     margin-left: 0;
+    margin-right: 0;
   }
 
   #page-content-wrapper {
