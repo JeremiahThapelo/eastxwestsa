@@ -4834,8 +4834,8 @@ textarea.form-control-lg {
 }
 
 .list-group {
-  display: flex;
-  flex-direction: column;
+  display: block;
+  /*flex-direction: column;*/
   padding-left: 0;
   margin-bottom: 0px;
   margin-left: 110px;
