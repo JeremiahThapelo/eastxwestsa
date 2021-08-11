@@ -10950,8 +10950,8 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     margin-left: -15rem;
   }
-}*/
-@media (min-width: 320px and max-width:480px) {
+}320px and max-width:480px*/
+@media (min-width: 768px) {
   #sidebar-wrapper {
     display: none;
     margin-left: 0;
