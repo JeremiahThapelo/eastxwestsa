@@ -10950,15 +10950,16 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     margin-left: -15rem;
   }
-}320px and max-width:480px*/
-@media screen and (min-width:320px and max-width:480px) {
+}320px and max-width:480px*
+@media screen and (min-width:320px) and (max-width:480px) {
   #sidebar-wrapper {  
      margin-right: 0;
   }
-}
+}*/
 @media screen and (min-width: 768px) {
   #sidebar-wrapper {
-    margin-left: 0;
+    margin-right: 0;
+    /*margin-left: 0;*/
   }
 
   #page-content-wrapper {
