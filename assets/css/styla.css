@@ -10955,7 +10955,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   #sidebar-wrapper {
     
     margin-left: 0;
-    margin-right: 0;
+    /*margin-right: 0;*/
   }
 
   #page-content-wrapper {
