@@ -10951,10 +10951,10 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     margin-left: -15rem;
   }
 }320px and max-width:480px*/
-@media (min-width:320px and max-width:480px) {
+@media screen and (min-width:320px and max-width:480px) {
     margin-right: 0;
 }
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
   #sidebar-wrapper {
     margin-left: 0;
   }
