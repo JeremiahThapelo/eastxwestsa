@@ -10953,10 +10953,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   display: none;
 }
 
-.justify-content-between .button{
-  
-  button:focus { outline: none; }
-}
+
 @media (max-width: 480px) {
   #sidebarToggle{
    display: initial;
