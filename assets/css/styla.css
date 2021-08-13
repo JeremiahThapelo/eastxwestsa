@@ -10959,7 +10959,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   transform: rotate(45deg) translate(-8px, -8px);
 }
 
-.site-heading{
+.sidebar-heading{
   font-family: "BigHonk" !important; 
   font-weight: 100;
 }
