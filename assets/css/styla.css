@@ -10948,7 +10948,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
 }
 @media (max-width: 480px) {
   #sidebarToggle{
-   display: inline;
+   display: initial;
   }
 }
 /*myMENU*/
