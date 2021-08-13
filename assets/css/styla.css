@@ -10906,6 +10906,8 @@ textarea.form-control-lg {
 #sidebar-wrapper .list-group {
   width: 15rem;
   text-align: center;
+  font-family: "BigHonk" !important;
+  font-color: black;
 }
 
 /*.sidebar-heading{
