@@ -10908,7 +10908,7 @@ textarea.form-control-lg {
   text-align: center;
 }
 
-#lg
+#listG
 {
   color: #000000 !important;
 }
@@ -10951,6 +10951,10 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
 
 #sidebarToggle{
   display: none;
+}
+
+.d-flex justify-content-between:hover{
+  color: #FFFFFF;
 }
 @media (max-width: 480px) {
   #sidebarToggle{
