@@ -10953,8 +10953,9 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   display: none;
 }
 
-.d-flex justify-content-between:hover{
-  color: #FFFFFF;
+.justify-content-between .button{
+  
+  button:focus { outline: none; }
 }
 @media (max-width: 480px) {
   #sidebarToggle{
