@@ -10906,6 +10906,10 @@ textarea.form-control-lg {
 #sidebar-wrapper .list-group {
   width: 15rem;
   text-align: center;
+}
+
+#lg
+{
   font-family: "BigHonk" !important;
   font-color: black;
 }
