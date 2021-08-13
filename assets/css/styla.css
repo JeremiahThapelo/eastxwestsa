@@ -10910,8 +10910,7 @@ textarea.form-control-lg {
 
 #lg
 {
-  font-family: "BigHonk" !important;
-  font-color: black;
+  color: #000000 !important;
 }
 
 /*.sidebar-heading{
