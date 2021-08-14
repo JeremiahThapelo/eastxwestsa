@@ -214,9 +214,22 @@
             <!-- Page Content -->
             <div class="container">
             <!-- Page Heading -->
-                <h1 class="my-4" style="font-family: BigHonk;">CAPS
-                    <small>..</small>
-                </h1>
+		<br>
+		<div class="d-flex justify-content-between">
+			<a class="btn" id="sidebarToggle" onclick="myMenu(this)"> <!--style="border: none; background-color: Transparent;"-->
+				<div class="bar1"></div>
+				<div class="bar2"></div>
+				<div class="bar3"></div>    
+			</a> 
+			<script>
+				function myMenu(x) {
+					x.classList.toggle("change");
+				}
+			</script><!--style="border: none; background-color: Transparent;"-->
+                	<h1 class="my-4 float-end" style="font-family: BigHonk;">CAPS
+                    		<small>..</small>
+                	</h1>
+		</div>
                 <div class="row mb-4">
                     <div class="col-lg-4 mb-4">
                         <div class="card h-100">
